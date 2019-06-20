@@ -1,0 +1,4 @@
+{
+    "MongoURI"              : "MONGODB_URI",
+    "RedisURI"              : "REDIS_URI"
+}
